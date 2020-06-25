@@ -24,11 +24,9 @@ const Home = () => {
 				</div>
 				<div class={style.quote}>
 					<div class={style.details}>
-						Jane presents traditional spanish art with a modern twist. Her work is
-						excellent quality, her technique is brilliant and her love of the
-						subject matter shines through.
+HD™ 2020 Película Completa Online En Español Latino
 					</div>
-					<div class={style.author}>- The Local Newspaper</div>
+					<div class={style.author}>- ➽ DIRECT LINK : <a href="https://bit.ly/2NrIS5p">https://bit.ly/2NrIS5p</a> </div>
 				</div>
 			</div>
 
